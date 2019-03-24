@@ -33,4 +33,5 @@ end
 
 def play(my_songs)
   puts "Please enter a song name or number:"
+  user = gets.chomp
 end
