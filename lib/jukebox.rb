@@ -36,7 +36,7 @@ def play(my_songs)
   puts "Please enter a song name or number:"
   user = gets.chomp
   
-  my_songs.each_with_index do ||
+  my_songs.each_with_index do |song, index|
     
   end
   
