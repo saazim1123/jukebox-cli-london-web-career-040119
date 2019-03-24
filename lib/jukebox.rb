@@ -43,7 +43,7 @@ def play(my_songs)
   end
   
   if output.include?("Playing")
-    
+    puts output
   end
   
   
