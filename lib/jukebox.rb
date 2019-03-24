@@ -44,6 +44,8 @@ def play(my_songs)
   
   if output.include?("Playing")
     puts output
+    
+  elsif
   end
   
   
