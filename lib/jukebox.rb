@@ -32,5 +32,5 @@ def list(my_songs)
 end
 
 def play(my_songs)
-  puts "Please enter"
+  puts "Please enter a song name or number:"
 end
