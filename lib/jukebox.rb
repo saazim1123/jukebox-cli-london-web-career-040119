@@ -50,7 +50,7 @@ def play(my_songs)
     play(my_songs)
     
   else
-    puts "Invalid input"
+    puts "Invalid input, please try again"
   
   end
   
