@@ -38,7 +38,7 @@ def play(my_songs)
   
   my_songs.each_with_index do |song, index|
     if user == (index + 1).to_s || user == song
-      output = 
+      output = "Playing #{song}"
     end
   end
   
