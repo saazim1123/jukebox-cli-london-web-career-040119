@@ -50,6 +50,7 @@ def play(my_songs)
     play(my_songs)
     
   else
+    puts "Invalid"
   
   end
   
