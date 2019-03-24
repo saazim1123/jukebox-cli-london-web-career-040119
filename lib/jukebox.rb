@@ -48,6 +48,8 @@ def play(my_songs)
   elsif user == "list"
     list(my_songs)
     play(my_songs)
+    
+  else
   
   end
   
