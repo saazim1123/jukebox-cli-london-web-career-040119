@@ -37,7 +37,7 @@ def play(my_songs)
   user = gets.chomp
   
   my_songs.each_with_index do |song, index|
-    if user == 
+    if user == (index)
       
     end
   end
